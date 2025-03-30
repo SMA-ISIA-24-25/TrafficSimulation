@@ -1,5 +1,7 @@
 # Práctica final de Sistemas Multiagente
 
+[Ver en GitHub](https://github.com/SMA-ISIA-24-25)
+
 ## Estructura del proyecto
 
 El proyecto se ha implementado como un módulo Python llamado `sma`, compuesto por los siguientes submódulos:
